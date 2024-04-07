@@ -59,7 +59,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
- 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
   </a>
@@ -67,16 +66,17 @@
 <!-------------------------------------------------------------->
 <h3 align="left">👨‍💻 Object Oriented Programming:</h3>
 <p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
- </p>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
+</p>
+ 
 <!-------------------------------------------------------------->
 <h3>🎁 Extra:</h3>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0"></a>
