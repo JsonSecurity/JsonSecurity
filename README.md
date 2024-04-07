@@ -13,7 +13,7 @@
   <li>Artificial Intelligence</li>
 </ul>
 <!-------------------------------------------------------------->
-<h2 align="left">🔧 Languages and Tools that I can use:</h2>
+<h2 align="left">⚙️ Languages and Tools that I can use:</h2>
 <!-------------------------------------------------------------->
 <h3 align="left">🖥️ My Environments:</h3>
 <p>
