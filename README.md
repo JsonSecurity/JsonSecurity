@@ -1,6 +1,7 @@
-# <h1 align="center">Hello 👾, Welcome to my Github page</h1>
+# <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
 
-<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with programming I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
+<h3 align="center">Scopes</h3>
+
 <br>
 
 <!--
