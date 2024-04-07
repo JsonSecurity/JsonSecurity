@@ -18,10 +18,11 @@
 <h3 align="left">🖥️ My Environments:</h3>
 
 <dl>
-  <dt>
+  <dt width="30em">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> 
     <a href="https://www.virtualbox.org/" target="_blank">
-      <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> 
-    </a>Virtual Box
+      Virtual Box
+    </a>
   </dt>
 </dl>
 
