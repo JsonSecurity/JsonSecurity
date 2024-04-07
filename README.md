@@ -21,7 +21,7 @@
     <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
   </a>
   <a href="https://www.parrotsec.org/">
-    <img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" width="40px" height="40px" border="0" decora/>
+    <img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" width="80px" height="40px" border="0" decora/>
   </a>
   <a href="https://www.virtualbox.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
