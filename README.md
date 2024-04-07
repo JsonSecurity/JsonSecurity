@@ -49,7 +49,7 @@
     <img width="35px" height="35px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
   </a>
   <a href="https://app.hackthebox.com/" target="_blank">
-    <img width="45px" height="45px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
+    <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
   </a>
 </p>
 <!-------------------------------------------------------------->
@@ -57,7 +57,7 @@
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="45" height="40"/> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="55" height="40"/> 
   </a>
  <a href="https://sass-lang.com/styleguide/"><img src="https://i.ibb.co/2vt1Qwf/color-1c4aab2b.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a>
 </p>
