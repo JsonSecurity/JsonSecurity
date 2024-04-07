@@ -18,10 +18,10 @@
 <h3 align="left">🖥️ My Environments:</h3>
 <p>
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img width="40px" height="40px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
   </a>
   <a href="https://portswigger.net/burp/communitydownload" target="_blank">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
+    <img width="40px" height="40px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
   </a>
   <a href="https://www.sublimetext.com/" target="_blank">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
