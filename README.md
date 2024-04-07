@@ -16,36 +16,12 @@
 <h2 align="left">⚙️ Languages and Tools that I can use:</h2>
 <!-------------------------------------------------------------->
 <h3 align="left">🖥️ My Environments:</h3>
-<h1>Welcome</h1>
-
-<style>
-h1 {
-    background-image: url(./image.gif);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
-}
-</style>
-<dl>
-  <dt width="30em">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> 
-    <a href="https://www.virtualbox.org/" target="_blank">
-      Virtual Box
-    </a>
-  </dt>
-</dl>
-
 <p>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
   </a>
-  <a href="https://portswigger.net/burp/communitydownload" target="_blank">
-    <img width="40px" height="40px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
-  </a>
-  <a href="https://app.hackthebox.com/" target="_blank">
-    <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
-  </a>
+  
+  
   <a href="https://www.sublimetext.com/" target="_blank">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
   </a>
@@ -70,14 +46,21 @@ h1 {
 </p>
 <!-------------------------------------------------------------->
 <h3 align="left">🎣 Pentesting:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="https://wordpress.com/"><img src="https://i.ibb.co/hgX5MVL/Word-Press-logotype-wmark.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://sass-lang.com/styleguide/"><img src="https://i.ibb.co/2vt1Qwf/color-1c4aab2b.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a>
+<p align="left">
+  <a href="https://portswigger.net/burp/communitydownload" target="_blank">
+    <img width="40px" height="40px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
+  </a>
+  <a href="https://app.hackthebox.com/" target="_blank">
+    <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
+  </a>
 </p>
 <!-------------------------------------------------------------->
 <h3 align="left">🧱 Web Development:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
- <a href="https://wordpress.com/"><img src="https://i.ibb.co/hgX5MVL/Word-Press-logotype-wmark.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> 
+  </a>
  <a href="https://sass-lang.com/styleguide/"><img src="https://i.ibb.co/2vt1Qwf/color-1c4aab2b.png" height="40" width="auto" alt="Word-Press-logotype-wmark" border="0"></a>
 </p>
 <!-------------------------------------------------------------->
@@ -93,4 +76,13 @@ h1 {
 <a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
 <!-------------------------------------------------------------->
-
+<!--
+<dl>
+  <dt width="30em">
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> 
+    <a href="https://www.virtualbox.org/" target="_blank">
+      Virtual Box
+    </a>
+  </dt>
+</dl>
+-->
