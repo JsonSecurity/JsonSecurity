@@ -24,7 +24,7 @@
     <img width="40px" height="40px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
   </a>
   <a href="https://app.hackthebox.com/" target="_blank">
-    <img width="40px" height="40px" src="https://image.emojisky.com/535/12772535-middle.png"/>
+    <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
   </a>
   <a href="https://www.sublimetext.com/" target="_blank">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
