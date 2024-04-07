@@ -8,8 +8,9 @@
 <h3 align="left">🛰️ Other Scopes</h3>
 <ul>
   <li>Mobile Application Development</li>
-  <li></i>Applied Electronics</li>
+  <li>Applied Electronics</li>
   <li>Robotics</li>
+  <li>Artificial Intelligence</li>
 </ul>
 <!-------------------------------------------------------------->
 <h2 align="left">🔧 Languages and Tools that I can use:</h2>
