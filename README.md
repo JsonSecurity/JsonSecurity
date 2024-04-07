@@ -80,29 +80,29 @@
 <!-------------------------------------------------------------->
 <h3 align="left">🦖 Programming Languages:</h3>
 <p>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" width="31" height="31"/> 
-  </a> 
+  </a>
+  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
+  </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
   </a>
 </p>
 <!-------------------------------------------------------------->
