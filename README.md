@@ -18,10 +18,10 @@
 <h3 align="left">🖥️ My Environments:</h3>
 <p>
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img alt="Sublime Text" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
   </a>
   <a href="https://www.sublimetext.com/" target="_blank">
-    <img alt="Sublime Text" width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
+    <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
   </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
@@ -37,6 +37,9 @@
   </a>
   <a href="https://www.geogebra.org/materials" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img  width="40px" height="40px" src="https://i.stack.imgur.com/sJrk5.png"/>
   </a>
 </p>
 <!-------------------------------------------------------------->
