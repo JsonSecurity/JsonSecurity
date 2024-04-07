@@ -20,8 +20,8 @@
 <dl>
   <dt>
     <a href="https://www.virtualbox.org/" target="_blank">
-      <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> Virtual Box
-    </a>
+      <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/> 
+    </a>Virtual Box
   </dt>
 </dl>
 
