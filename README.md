@@ -1,4 +1,4 @@
-![image](https://github.com/JsonSecurity/JsonSecurity/assets/86402253/72eea648-9ff2-4cc4-befa-70ec8afbe1a4)# <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
+# <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
 <!-------------------------------------------------------------->
 <h3 align="left">⚔️ Scopes</h3>
 <ul>
