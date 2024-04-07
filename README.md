@@ -96,7 +96,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
-    <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="js" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
