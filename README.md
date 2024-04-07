@@ -99,10 +99,10 @@
     <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="js" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   </a>
 </p>
 <!-------------------------------------------------------------->
