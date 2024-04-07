@@ -23,7 +23,7 @@
 <h3 align="left">🖥️ My Environments:</h3>
 
   <a href="https://www.virtualbox.org/">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" border="0"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px"  border="0"/>
   </a>
   <a href="https://www.sublimetext.com/">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
