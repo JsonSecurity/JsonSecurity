@@ -1,10 +1,11 @@
 # <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
 
 <h3 align="left">Scopes</h3>
-<ul style="list-style-type: square">
-  <li>list-style-type: square</li>
+<ul>
   <li>Cyber Security</li>
-  <li>Mobile application development</li>
+  <li>Web Application Development</li>
+  <li>Mobile application Development</li>
+  <li>Robotics and electronics</li>
 </ul>
 <!--
 **JsonSecurity/JsonSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
