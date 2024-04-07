@@ -22,8 +22,8 @@
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a> 
-  <a href="https://notepad-plus-plus.org" target="_blank">
-    <img src="https://i.ibb.co/gSbvCC9/notepad.png" width="auto" height="40px" alt="notepad++" border="0">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
