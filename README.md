@@ -1,15 +1,15 @@
 # <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
 
-<h3 align="left"> Scopes</h3>
+<h3 align="left">⚔️ Scopes</h3>
 <ul>
   <li>Cyber Security</li>
   <li>Web Application Development</li>
 </ul>
 
-<h3 align="left">Other Scopes</h3>
+<h3 align="left">🛰️ Other Scopes</h3>
 <ul>
   <li>Mobile Application Development</li>
-  <li><i class="nf nf-fa-heart"></i> <i class="nf nf-custom-vim"></i>Applied Electronics</li>
+  <li></i>Applied Electronics</li>
   <li>Robotics</li>
 </ul>
 
