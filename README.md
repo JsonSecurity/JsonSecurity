@@ -64,7 +64,7 @@
     <img width="40px" height="40px" src="https://www.exploit-db.com/images/spider-white.png"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="40" height="40"/> 
   </a>
 </p>
 <!-------------------------------------------------------------->
