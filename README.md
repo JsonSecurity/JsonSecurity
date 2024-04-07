@@ -23,10 +23,10 @@
 <h3 align="left">🖥️ My Environments:</h3>
 
   <a href="https://www.virtualbox.org/">
-    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
+    <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" border="0"/>
   </a>
   <a href="https://www.sublimetext.com/">
-    <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
+    <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
   </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
