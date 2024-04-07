@@ -16,7 +16,7 @@
 <!-------------------------------------------------------------->
 <h3 align="left">🖥️ My Environments:</h3>
 <p>
-  <a href="https://www.sublimetext.com/">
+  <a href="https://www.sublimetext.com/" target="_BLANK">
     <img alt="Sublime Text" width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png"/>
   </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/">
