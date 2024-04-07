@@ -32,7 +32,7 @@
     <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
   </a>
   <a href="https://www.geogebra.org/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGeoGebra&psig=AOvVaw3tDOqHgbUpjrJcAEttIGls&ust=1712599013116000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiF887WsIUDFQAAAAAdAAAAABAE" width="auto" height="40px" alt="notepad++" border="0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
   </a>
 </p>
 <!-------------------------------------------------------------->
