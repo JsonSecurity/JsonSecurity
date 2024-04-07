@@ -16,7 +16,7 @@
 <h2 align="left">⚙️ Languages and Tools that I can use:</h2>
 <!-------------------------------------------------------------->
 <h3 align="left">🖥️ My Environments:</h3>
-<p>
+
   <a href="https://www.virtualbox.org/" target="_blank">
     <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"/>
   </a>
@@ -41,7 +41,7 @@
   <a href="https://colab.research.google.com/" target="_blank">
     <img  width="40px" height="40px" src="https://i.stack.imgur.com/sJrk5.png"/>
   </a>
-</p>
+
 <!-------------------------------------------------------------->
 <h3 align="left">🎣 Pentesting:</h3>
 <p align="left">
@@ -53,7 +53,7 @@
   </a>
 </p>
 <!-------------------------------------------------------------->
-<h3 align="left">🧱 Web Development:</h3>
+<h3 align="left">🧱 Web Application Development:</h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -82,7 +82,6 @@
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0"></a>
 <a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
-<a href="http://google.com"><img src="https://i.ibb.co/J58s0dc/kisspng-google-drive-computer-icons-google-docs-transparent-google-drive-png-5ab1174c17bbe1-82756443.png" alt="kisspng-google-drive-computer-icons-google-docs-vector-png-google-drive-5ab1173fd5ce04-4249597815215" width="auto" height="40" alt="google_drive" border="0"></a>
 <br>
 <!-------------------------------------------------------------->
 <!--
