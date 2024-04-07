@@ -63,6 +63,9 @@
   <a href="https://www.exploit-db.com/searchsploit" target="_blank">
     <img width="40px" height="40px" src="https://www.exploit-db.com/images/spider-white.png"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" width="40" height="40"/> 
+  </a>
 </p>
 <!-------------------------------------------------------------->
 <h3 align="left">🧱 Web Application Development:</h3>
@@ -73,6 +76,15 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
+    <img src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" width="40" height="40"/> 
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" width="40" height="40"/> 
   </a>
 </p>
 <!-------------------------------------------------------------->
