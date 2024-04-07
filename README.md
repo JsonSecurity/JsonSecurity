@@ -17,6 +17,7 @@
 <!-------------------------------------------------------------->
 
 <h3 align="left">🖥️ My Environments:</h3>
+<p>
   <a href="https://www.kali.org/">
     <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
   </a>
@@ -50,7 +51,10 @@
   <a href="https://colab.research.google.com/" target="_blank">
     <img  width="40px" height="40px" src="https://i.stack.imgur.com/sJrk5.png"/>
   </a>
-
+  <a href="https://www.latex-project.org/get/" target="_blank">
+    <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
+  </a>
+</p>
 <!-------------------------------------------------------------->
 <h3 align="left">🎣 Pentesting:</h3>
 <p align="left">
