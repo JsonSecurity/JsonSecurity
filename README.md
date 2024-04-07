@@ -54,6 +54,9 @@
   <a href="https://www.vulnhub.com/" target="_blank">
     <img width="40px" height="40px" src="https://styles.redditmedia.com/t5_3ielc/styles/communityIcon_3bj2qe3pois31.png"/>
   </a>
+  <a href="https://www.exploit-db.com/searchsploit" target="_blank">
+    <img width="40px" height="40px" src="https://www.exploit-db.com/images/spider-white.png"/>
+  </a>
 </p>
 <!-------------------------------------------------------------->
 <h3 align="left">🧱 Web Application Development:</h3>
