@@ -15,20 +15,15 @@
 <!-------------------------------------------------------------->
 <h2 align="left">⚙️ Languages and Tools that I can use:</h2>
 <!-------------------------------------------------------------->
-<h3>🎁 Extra:</h3>
- <a href="https://www.virtualbox.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0"/></a>
-<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0"></a>
-<a href="https://www.microsoft.com/en-us?ql=4"><img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0"></a>
-<br>
-<h3 align="left">🖥️ My Environments:</h3>
 
-  <a href="https://www.virtualbox.org/" style="text-decoration: none;">
+<h3 align="left">🖥️ My Environments:</h3>
+  <a href="https://www.virtualbox.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
   </a>
-  <a href="https://www.sublimetext.com/" style="text-decoration: none;">
+  <a href="https://www.sublimetext.com/">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
   </a>
-  <a href="https://www.mozilla.org/en-US/firefox/developer/" style="text-decoration: none;" target="_blank">
+  <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a> 
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;" rel="noreferrer">
