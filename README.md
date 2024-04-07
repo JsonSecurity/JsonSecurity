@@ -1,4 +1,7 @@
-### Hi there 👋
+# <h1 align="center">Hello 👾, Welcome to my Github page</h1>
+
+<h3 align="center">I'm a Developer based in Curaçao, currently balancing my university studies with programming I use GitHub to host/backup fun mini-projects that I can return to in my free time.</h3>
+<br>
 
 <!--
 **JsonSecurity/JsonSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
