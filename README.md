@@ -21,7 +21,7 @@
     <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
   </a>
   <a href="https://www.parrotsec.org/">
-    <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="80px" height="40px" border="0" decora/>
+    <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
   </a>
   <a href="https://www.virtualbox.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
