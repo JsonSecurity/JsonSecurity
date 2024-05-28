@@ -39,8 +39,11 @@
   <a href="https://colab.research.google.com/" target="_blank">
     <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
   </a>
+  <a href="https://github.com/Kaggle" target="_blank">
+    <img  width="40px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png"/>
+  </a>
   <a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/15658638"/>
+    <img  width="35px" height="35px" src="https://avatars.githubusercontent.com/u/15658638"/>
   </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
