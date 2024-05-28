@@ -3,14 +3,14 @@
 <h3 align="left">⚔️ Scopes</h3>
 <ul>
   <li>Cyber Security</li>
-  <li>Application Development</li>
+  <li>Wb Application Development</li>
+  <li>Mobile Application Development</li>
+  <li>Artificial Intelligence</li>
 </ul>
 <h3 align="left">🛰️ Other Scopes</h3>
 <ul>
-  <li>Mobile Application Development</li>
   <li>Applied Electronics</li>
   <li>Robotics</li>
-  <li>Artificial Intelligence</li>
 </ul>
 <!-------------------------------------------------------------->
 <h2 align="left">⚙️ Languages and Tools that I can use:</h2>
