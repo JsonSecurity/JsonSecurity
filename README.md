@@ -30,6 +30,9 @@
   <a href="https://www.sublimetext.com/">
     <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
   </a>
+  <a href="https://github.com/microsoft/vscode">
+    <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
+  </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
@@ -142,7 +145,7 @@
       <img src="https://avatars.githubusercontent.com/u/14101776" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
   <a href="https://github.com/flet-dev/flet"  target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/102273996" height="40" width="40" border="0">
+      <img src="https://flet.dev/img/logo.svg" height="40" width="40" border="0">
   </a>
 </p>
 <!-------------------------------------------------------------->
