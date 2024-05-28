@@ -3,7 +3,7 @@
 <h3 align="left">⚔️ Scopes</h3>
 <ul>
   <li>Cyber Security</li>
-  <li>Wb Application Development</li>
+  <li>Web Application Development</li>
   <li>Mobile Application Development</li>
   <li>Artificial Intelligence</li>
 </ul>
