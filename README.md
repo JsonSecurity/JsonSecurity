@@ -36,6 +36,12 @@
   <a href="https://developer.android.com/studio?hl=es-419"  target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
+  </a>
+  <a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/15658638"/>
+  </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
@@ -50,9 +56,6 @@
   </a>
   <a href="https://www.geogebra.org/materials" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
   </a>
   <a href="https://www.latex-project.org/get/" target="_blank">
     <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
@@ -89,8 +92,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
+  <a href="https://github.com/dart-lang" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/1609975" alt="js" width="40" height="40"/> 
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -107,8 +110,8 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/dart-lang" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/1609975" alt="js" width="40" height="40"/> 
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
   </a>
 </p>
 <!-------------------------------------------------------------->
