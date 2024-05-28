@@ -33,6 +33,9 @@
   <a href="https://github.com/microsoft/vscode">
     <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
   </a>
+  <a href="https://developer.android.com/studio?hl=es-419"  target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
+  </a>
   <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
       <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
@@ -137,9 +140,6 @@
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com/studio?hl=es-419"  target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   </a>
   <a href="https://github.com/flutter/flutter"  target="_blank">
       <img src="https://avatars.githubusercontent.com/u/14101776" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
