@@ -49,7 +49,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
   </a>
   <a href="https://colab.research.google.com/" target="_blank">
-    <img  width="40px" height="40px" src="https://i.stack.imgur.com/sJrk5.png"/>
+    <img  width="40px" height="40px" src="[https://i.stack.imgur.com/sJrk5.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png)"/>
   </a>
   <a href="https://www.latex-project.org/get/" target="_blank">
     <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
