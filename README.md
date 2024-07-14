@@ -1,4 +1,4 @@
-# <h1 align="center">Hello 👾, I'm JsonSecurity</h1>
+# <h1 align="center">Json Security</h1>
 <!-------------------------------------------------------------->
 <h3 align="left">⚔️ Scopes</h3>
 <ul>
@@ -16,13 +16,13 @@
 ###
 
 <div align="left">
-  <a href="#">
+  <a href="www.youtube.com/@JsonSecurity">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="#">
+  <a href="https://whatsapp.com/channel/0029Va6qCz35kg78isPUyb0x">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=00bd9d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a> 
-</div>n
+</div>
 
 ###
 
