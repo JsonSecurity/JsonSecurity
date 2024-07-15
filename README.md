@@ -32,62 +32,35 @@
 
 <h3 align="left">🖥️ My Environments:</h3>
 
-<a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>
-</a>
- 
-<p>
- <a href="https://www.kali.org/">
-    <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
-  </a>
-  <a href="https://www.parrotsec.org/">
-    <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
-  </a>
-  <a href="https://www.virtualbox.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
-  </a>
-  <a href="https://www.sublimetext.com/">
-    <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
-  </a>
-  <a href="https://github.com/microsoft/vscode">
-    <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
-  </a>
-  <a href="https://developer.android.com/studio?hl=es-419"  target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
-  </a>
-  <a href="https://github.com/Kaggle" target="_blank">
-    <img  width="35px" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png"/>
-  </a>
-  <a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    <img  width="35px" height="35px" src="https://avatars.githubusercontent.com/u/15658638"/>
-  </a>
-  <a href="https://www.mozilla.org/en-US/firefox/developer/"  target="_blank">
-      <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://desktop.github.com/" style="text-decoration: none;" target="_blank">
-    <img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0">
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
-  </a>
-  <a href="https://www.raspberrypi.com" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" width="auto" height="40px" alt="notepad++" border="0">
-  </a>
-  <a href="https://www.geogebra.org/materials" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
-  </a>
-  <a href="https://www.latex-project.org/get/" target="_blank">
-    <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
-  </a>
-</p>
+<div>
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
+  <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
+  <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
+
+  <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
+
+  <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
+
+  <img  width="35px" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png"/>
+
+  <img  width="35px" height="35px" src="https://avatars.githubusercontent.com/u/15658638"/>
+
+  <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+
+  <img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0">
+
+  <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
+
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" width="auto" height="40px" alt="notepad++" border="0">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
+
+  <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
+</div>
 <!-------------------------------------------------------------->
 <h3 align="left">🎣 Pentesting:</h3>
 <p align="left">
