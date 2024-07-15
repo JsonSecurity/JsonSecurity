@@ -32,7 +32,23 @@
 
 <h3 align="left">🖥️ My Environments:</h3>
 
+<table>
+<thead>
+
+<tr>
+<th>Python3</th>
+</tr>
+
+</thead>
+<tbody>
+<tr>
+<td>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" style="max-width: 100%;">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 <p>
  <a href="https://www.kali.org/">
