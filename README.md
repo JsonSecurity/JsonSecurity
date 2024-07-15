@@ -71,6 +71,9 @@
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
   </a>
+  <a href="https://www.raspberrypi.com" target="_blank">
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" width="auto" height="40px" alt="notepad++" border="0">
+  </a>
   <a href="https://www.geogebra.org/materials" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
   </a>
