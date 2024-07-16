@@ -1,4 +1,4 @@
-<img src="https://github.com/JsonSecurity/Images/blob/main/all/jsonsecuritylogo.png" />
+<img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" />
 <!-------------------------------------------------------------->
 <h3 align="left">⚔️ Scopes</h3>
 <ul>
