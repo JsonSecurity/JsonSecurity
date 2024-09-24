@@ -12,7 +12,7 @@
   <li>Applied Electronics</li>
   <li>Robotics</li>
 </ul>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&layout=compact&theme=dracula&custom_title=Programming)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <div align="left">
@@ -95,11 +95,11 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </div>
-<!-------------------------------------------------------------->
+<!------------------------------------------------------------
 <h3>📓 Extra:</h3>
 <div>
   <img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0">
   <img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0">
   <img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0">
 </div>
-
+-->
