@@ -91,6 +91,7 @@
           <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" width="40" height="40"/>
           <img src="https://avatars.githubusercontent.com/u/14101776" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
           <img src="https://flet.dev/img/logo.svg" height="40" width="40" border="0">
+          <img src="https://developers.google.com/static/codelabs/tensorflowjs-comment-spam-detection/img/1aee0ede85885520.png" height="40" width="40" border="0">
 </div>
 <!-------------------------------------------------------------->
 <h3 align="left">📚 Object Oriented Programming:</h3>
