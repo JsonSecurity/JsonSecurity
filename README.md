@@ -12,7 +12,11 @@
   <li>Applied Electronics</li>
   <li>Robotics</li>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&layout=compact&theme=dracula&custom_title=Programming)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&layout=compact&theme=dracula&custom_title=Programming)](https://github.com/anuraghazra/github-readme-stats)]
+
 ###
 
 <div align="left">
