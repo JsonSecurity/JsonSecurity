@@ -91,6 +91,7 @@
           <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" width="40" height="40"/>
           <img src="https://avatars.githubusercontent.com/u/14101776" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
           <img src="https://flet.dev/img/logo.svg" height="40" width="40" border="0">
+          <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" height="40" width="40" border="0">
           <img src="https://styles.redditmedia.com/t5_22lifv/styles/communityIcon_mw6kn5lyiud41.png" height="40" width="40" border="0">
 </div>
 <!-------------------------------------------------------------->
