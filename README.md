@@ -15,7 +15,8 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Programming)](https://github.com/JsonSecurity?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&theme=dracula&layout=default&custom_title=Most%20Used%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=default&theme=dracula&custom_title=Most%20Used%20Languages)
+
 
 ###
 
