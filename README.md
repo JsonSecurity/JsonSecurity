@@ -1,23 +1,20 @@
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" />
 
 ### ⚔️ SCOPES
-[![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](https://example.com)
-[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐇-white?style=for-the-badge&logo=tensorflow&logoColor=white)](https://example.com)
-[![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](https://example.com)
-[![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](https://example.com)
-
+[![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐇-white?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
 
 ### 🛰️ OTHER SCOPES
-
-[![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](https://example.com)
-[![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](https://example.com)
-
+[![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](#)
+[![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
 ###
 
-### 🦔 Programming Languages I've Used
+### 🦔 Most used programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](#)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
