@@ -2,13 +2,14 @@
 
 ### ⚔️ SCOPES
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](https://example.com)
-[![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐙-red?style=for-the-badge&logo=react&logoColor=white)](https://example.com)
+[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐇-white?style=for-the-badge&logo=tensorflow&logoColor=white)](https://example.com)
+[![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](https://example.com)
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](https://example.com)
-[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐜-yellow?style=for-the-badge&logo=tensorflow&logoColor=white)](https://example.com)
+
 
 ### 🛰️ OTHER SCOPES
 
-[![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🧨-orange?style=for-the-badge&logo=arduino&logoColor=white)](https://example.com)
+[![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](https://example.com)
 [![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](https://example.com)
 
 
@@ -16,12 +17,18 @@
 
 ### Programming Languages I've Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity\&langs_count=15&layout=donut-vertical&theme=dracula)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
 
-### GitHub Streak Stats
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsonsecurity)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsonsecurity\&hide_progress=true)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsonsecurity\&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsonsecurity&theme=dracula)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/jsonsecurity?template=classic&languages=1&base.indepth=0&base.hireable=0&base.skip=0&languages.ignored=html&languages.limit=5&languages.colors=github&config.timezone=America%2FSao_Paulo&config.theme=dark)
 
+-->
 ###
 
 <div align="left">
