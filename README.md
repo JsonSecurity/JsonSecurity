@@ -1,12 +1,12 @@
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" />
 
-### ⚔️ SCOPES
+### ⚔️ Scopes
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐇-white?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
 
-### 🛰️ OTHER SCOPES
+### 🛰️ Other scopes
 [![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
