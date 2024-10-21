@@ -1,35 +1,43 @@
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" />
-<!-------------------------------------------------------------->
-<h3 align="left">⚔️ Scopes</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Cyber%20Security-4B4B4B?style=for-the-badge&logo=security&logoColor=white" alt="Cyber Security" />
-  <img src="https://img.shields.io/badge/Web%20Application%20Development-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Web Application Development" />
-  <img src="https://img.shields.io/badge/Mobile%20Application%20Development-00BFFF?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Application Development" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFCA28?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence" />
-</p>
 
-<h3 align="left">🛰️ Other Scopes</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Applied%20Electronics-FF5722?style=for-the-badge&logo=arduino&logoColor=white" alt="Applied Electronics" />
-  <img src="https://img.shields.io/badge/Robotics-00BFFF?style=for-the-badge&logo=robot&logoColor=white" alt="Robotics" />
-</p>
+### ⚔️ SCOPES
+[![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](https://example.com)
+[![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐙-red?style=for-the-badge&logo=react&logoColor=white)](https://example.com)
+[![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](https://example.com)
+[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐜-yellow?style=for-the-badge&logo=tensorflow&logoColor=white)](https://example.com)
+
+### 🛰️ OTHER SCOPES
+
+[![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🧨-orange?style=for-the-badge&logo=arduino&logoColor=white)](https://example.com)
+[![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](https://example.com)
 
 
 ###
 
-## Programming Languages I've Used
+### Programming Languages I've Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)
 
-## GitHub Streak Stats
+### GitHub Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsonsecurity&theme=dracula)](https://git.io/streak-stats)
 
-<!-------------------------------------------------------------->
-<h2 align="left">⚙️ Languages and Tools that I can use:</h2>
-<!-------------------------------------------------------------->
+###
 
-<h3 align="left">🖥️ My Environments:</h3>
+<div align="left">
+  <a href="https://www.youtube.com/@JsonSecurity">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va6qCz35kg78isPUyb0x">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=00bd9d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a> 
+</div>
+
+###
+
+### ⚙️ Languages and Tools that I can use
+
+#### 🖥️ My Environments
 
 <div>
   <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
@@ -49,8 +57,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
   <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
 </div>
-<!-------------------------------------------------------------->
-<h3 align="left">🎣 Pentesting:</h3>
+
+#### 🎣 Pentesting
 <div>
   <img width="35px" height="35px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
   <img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/31746234?s=200&v=4"/>
@@ -59,8 +67,8 @@
   <img width="40px" height="40px" src="https://www.exploit-db.com/images/spider-white.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="50" height="30"/> 
 </div>
-<!-------------------------------------------------------------->
-<h3 align="left">🦖 Programming Languages:</h3>
+
+#### 🦖 Programming Languages
 <div>
   <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -72,8 +80,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
 </DIV>
-<!-------------------------------------------------------------->
-<h3 align="left">🧱 Application Development:</h3>
+
+#### 🧱 Application Development
 <div>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -89,13 +97,14 @@
           <img src="https://www.manualweb.net/img/logos/flask.png" height="40" width="40" border="0">
           <img src="https://styles.redditmedia.com/t5_22lifv/styles/communityIcon_mw6kn5lyiud41.png" height="40" width="40" border="0">
 </div>
-<!-------------------------------------------------------------->
-<h3 align="left">📚 Object Oriented Programming:</h3>
+
+#### 📚 Object Oriented Programming
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </div>
+
 <!------------------------------------------------------------
 <h3>📓 Extra:</h3>
 <div>
