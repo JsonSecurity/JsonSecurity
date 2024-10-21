@@ -2,7 +2,7 @@
 
 ### ⚔️ Scopes
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🐇-white?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🦓-white?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
 
