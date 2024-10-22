@@ -14,7 +14,7 @@
 
 ### 🦔 Most used programming languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](#)
