@@ -45,13 +45,9 @@
 #### 🖥️ My Environments
 
 <div>
-  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
-  <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
-  <img width="40px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
+  <img width="40px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png"/>
   <img width="40px" height="40px" src="https://styles.redditmedia.com/t5_3ielc/styles/communityIcon_3bj2qe3pois31.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="50" height="30"/> 
-  
   <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
   <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
@@ -72,11 +68,19 @@
   <!--<img width="40px" src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/200w.gif"/>-->
   
   <!--<img width="40px" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"/>-->
-
-  
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
+  <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
+  <img width="35px" height="35px" src="https://roboticaxyz.com/wp-content/uploads/2022/12/1000040239.png"/>
   <img width="35px" height="35px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
   <img width="35px" height="35px" src="https://www.nicepng.com/png/full/233-2339906_the-owasp-zed-attack-proxy-is-one-of.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="50" height="30"/> 
+  
   <img width="35px" height="35px" src="https://repository-images.githubusercontent.com/413856062/a744f824-c4ce-436d-9785-19a35a8905c9"/>
+  
+  <!-- <img height="35px" src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png"/> -->
+  <img width="35px" height="35px" src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg"/>
+  <img width="35px" height="35px" src="https://udigrudroid.wordpress.com/wp-content/uploads/2018/07/veil_logo.png"/>
+  
   <img width="35px" height="35px" src="https://icons.veryicon.com/png/System/Captiva/wireshark.png"/>
   <img width="35px" height="35px" src="https://www.zerodayclothing.com/products/openwall-jtr-gentleman-1/openwall-jtr-gentleman-1_carrousel_02.jpg"/>
   <img width="35px" height="35px" src="https://media.imgcdn.org/repo/2023/03/hashcat/hashcat-logo.png"/>
