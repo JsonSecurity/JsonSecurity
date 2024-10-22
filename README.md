@@ -62,10 +62,12 @@
 
 #### 🎣 Pentesting
 <div>
-  <img width="40px" src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/200w.gif"/>
-  
+  <!--<img width="40px" src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/200w.gif"/>-->
   <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
   <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
+  <img width="40px" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"/>
+  <img width="40px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
   
   <img width="40px" height="40px" src="https://styles.redditmedia.com/t5_3ielc/styles/communityIcon_3bj2qe3pois31.png"/>
