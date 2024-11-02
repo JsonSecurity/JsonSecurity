@@ -1,16 +1,37 @@
 <img src="https://github.com/JsonSecurity/Images/blob/main/all/logogit.png" />
 
-### ⚔️ Scopes
+<!--### ⚔️ Scopes
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
 [![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-🦓-white?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 [![Web Application Development](https://img.shields.io/badge/WEB%20APP%20DEV-🐜-orange?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
-
-### 🛰️ Other scopes
+-->
+<div align="center">
+  <img src="https://img.shields.io/badge/CYBER%20SECURITY-black?style=flat&logo=kalilinux&logoColor=00ffff" >
+  <img  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-black?style=flat&logo=tensorflow">
+  <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=react&logoColor=00ffff">
+  <img src="https://img.shields.io/badge/MOBILE%20APP%20DEV-black?style=flat&logo=android&logoColor=98ed64">
+</div>
+<!--### 🛰️ Other scopes
 [![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](#)
 [![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+-->
+<div align="center">
+  <img src="https://img.shields.io/badge/APPLIED%20ELECTRONICS-black?style=flat&logo=arduino&logoColor=00ffff">
+  <img  src="https://img.shields.io/badge/ROBOTICS-black?style=flat&logo=cplusplus&logoColor=8c65f6">
+</div>
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/@JsonSecurity">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white" height="27" alt="youtube logo"  />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va6qCz35kg78isPUyb0x">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=24dc15&logoColor=white" height="27" alt="whatsapp logo"  />
+  </a>
+</div>
 
-###
+---
+
 <!--
 ### 🦔 Most used programming languages
 
@@ -46,24 +67,12 @@
 ![Metrics](https://metrics.lecoq.io/jsonsecurity?template=classic&languages=1&base.indepth=0&base.hireable=0&base.skip=0&languages.ignored=html&languages.limit=5&languages.colors=github&config.timezone=America%2FSao_Paulo&config.theme=dark)
 
 -->
+---
 
-### 🐾 Social media
-<div align="left">
-  <a href="https://www.youtube.com/@JsonSecurity">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://whatsapp.com/channel/0029Va6qCz35kg78isPUyb0x">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=00bd9d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a> 
-</div>
+<div align="center">
+  <h3>⚙️ Languages and Tools that I can use</h3>
 
-###
-
-### ⚙️ Languages and Tools that I can use
-
-#### 🖥️ My Environments
-
-<div>
+  <h4>🖥️ My Environments</h4>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="40px" height="40px" border="0" decora/>
   <img width="40px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png"/>
   <img width="40px" height="40px" src="https://styles.redditmedia.com/t5_3ielc/styles/communityIcon_3bj2qe3pois31.png"/>
@@ -82,8 +91,8 @@
   <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
 </div>
 
-#### 🎣 Pentesting
-<div>
+<div align="center">
+  <h4>🎣 Pentesting</h4>
   <!--<img width="40px" src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/200w.gif"/>-->
   
   <!--<img width="40px" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"/>-->
@@ -110,8 +119,8 @@
   
 </div>
 
-#### 🦖 Programming Languages
-<div>
+<div align="center">
+  <h4>🦖 Programming Languages</h4>
   <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/1609975" alt="js" width="40" height="40"/> 
@@ -123,8 +132,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
 </DIV>
 
-#### 🧱 Application Development
-<div>
+<div align="center">
+  <h4>🧱 Application Development</h4>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
           <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" width="31" height="31"/>
@@ -140,8 +149,8 @@
           <img src="https://styles.redditmedia.com/t5_22lifv/styles/communityIcon_mw6kn5lyiud41.png" height="40" width="40" border="0">
 </div>
 
-#### 📚 Object Oriented Programming
-<div>
+<div align="center">
+  <h4>📚 Object Oriented Programming</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
