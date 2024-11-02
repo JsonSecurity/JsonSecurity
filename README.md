@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/CYBER%20SECURITY-black?style=flat&logo=kalilinux&logoColor=00ffff" >
   <img  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-black?style=flat&logo=tensorflow">
-  <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=react&logoColor=00ffff">
+  <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=laravel&logoColor=f72a16">
   <img src="https://img.shields.io/badge/MOBILE%20APP%20DEV-black?style=flat&logo=android&logoColor=98ed64">
 </div>
 <!--### 🛰️ Other scopes
