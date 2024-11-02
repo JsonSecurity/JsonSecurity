@@ -11,10 +11,29 @@
 [![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 
 ###
-
+<!--
 ### 🦔 Most used programming languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200)](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200)
+-->
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=7200" />
+  </a>
+  <br>
+  <a href="https://github.com/JsonSecurity/tunNgrok">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=31ff0d&title_color=31ff0d" />
+  </a>
+  <a href="https://github.com/JsonSecurity/Lizardnum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=fc3b5e&title_color=fc3b5e" />
+  </a>
+  <a href="https://github.com/JsonSecurity/gemini">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=gemini&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=eeda0e&title_color=eeda0e"/>
+  </a>
+  
+  <a href="https://github.com/JsonSecurity/MsfCj7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Locateme&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=ffffff&title_color=ffffff" />
+  </a>
+</div>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=compact&theme=dracula&custom_title=Most%20Used%20Languages)](#)
