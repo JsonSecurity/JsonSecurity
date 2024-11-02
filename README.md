@@ -30,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=gemini&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=eeda0e&title_color=eeda0e"/>
   </a>
   
-  <a href="https://github.com/JsonSecurity/MsfCj7">
+  <a href="https://github.com/JsonSecurity/Locateme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Locateme&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=ffffff&title_color=ffffff" />
   </a>
 </div>
