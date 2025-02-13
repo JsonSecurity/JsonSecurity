@@ -48,7 +48,7 @@
   <a href="https://github.com/JsonSecurity/Lizardnum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=fc3b5e&title_color=fc3b5e&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/Lemurcv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=bbf80c&title_color=bbf80c"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=bbf80c&title_color=bbf80c&cache_seconds=7200"/>
   </a>
   <a href="https://github.com/JsonSecurity/Locateme">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Locateme&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=ffffff&title_color=ffffff&cache_seconds=7200" />
