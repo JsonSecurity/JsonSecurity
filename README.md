@@ -28,6 +28,9 @@
   <a href="https://whatsapp.com/channel/0029Va6qCz35kg78isPUyb0x">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=24dc15&logoColor=white" height="27" alt="whatsapp logo"  />
   </a>
+  <a href="https://github.com/JsonSecurity/Images">
+    <img src="https://img.shields.io/static/v1?message=Scripts&logo=shell&label=&color=8758f3&logoColor=white" height="27" alt="script logo"  />
+  </a>
 </div>
 
 ---
