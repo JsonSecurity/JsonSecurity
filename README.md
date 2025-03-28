@@ -46,16 +46,17 @@
   </a>
   <br>
   <a href="https://github.com/JsonSecurity/tunNgrok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=31ff0d&title_color=31ff0d&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=03df64&title_color=03df64&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/Lizardnum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=fc3b5e&title_color=fc3b5e&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/JsonSecurity/ServoTunerUNO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=ServoTunerUNO&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=b291fc&title_color=b291fc&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/Lemurcv">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=bbf80c&title_color=bbf80c&cache_seconds=7200"/>
   </a>
-  <a href="https://github.com/JsonSecurity/Locateme">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Locateme&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=ffffff&title_color=ffffff&cache_seconds=7200" />
-  </a>
+  
 </div>
 
 <!--
