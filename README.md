@@ -49,20 +49,22 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=89e051&title_color=89e051&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/Lemurcv">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=89e051&title_color=89e051&cache_seconds=7200"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=b2ed11&title_color=b2ed11&cache_seconds=7200"/>
   </a>
   <a href="https://github.com/JsonSecurity/Lizardnum">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=328ed9&title_color=328ed9&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=d12d08&title_color=d12d08&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/kupload">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=kupload&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=cbcbcb&title_color=cbcbcb&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=kupload&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=09e1e8&title_color=09e1e8&cache_seconds=7200" />
   </a>
+  <!--
   <a href="https://github.com/JsonSecurity/BearDataset">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=BearDataset&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=328ed9&title_color=328ed9&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/ServoTunerUNO">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=ServoTunerUNO&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=f34b7d&title_color=f34b7d&cache_seconds=7200" />
   </a>
+  -->
 </div>
 
 <!--
