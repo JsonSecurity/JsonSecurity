@@ -42,19 +42,26 @@
 -->
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=7200" />
   </a>
   <br>
   <a href="https://github.com/JsonSecurity/tunNgrok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=03df64&title_color=03df64&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=tunNgrok&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=89e051&title_color=89e051&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/Lemurcv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=bbf80c&title_color=bbf80c&cache_seconds=7200"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lemurcv&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=89e051&title_color=89e051&cache_seconds=7200"/>
   </a>
-  <a href="https://github.com/JsonSecurity/Lizardnum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=fc3b5e&title_color=fc3b5e&cache_seconds=7200" />
+  <a href="https://github.com/JsonSecurity/Lizardnum">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=Lizardnum&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=328ed9&title_color=328ed9&cache_seconds=7200" />
   </a>
   <a href="https://github.com/JsonSecurity/kupload">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=kupload&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=b291fc&title_color=b291fc&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=kupload&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=cbcbcb&title_color=cbcbcb&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/JsonSecurity/BearDataset">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=BearDataset&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=328ed9&title_color=328ed9&cache_seconds=7200" />
+  </a>
+  <a href="https://github.com/JsonSecurity/ServoTunerUNO">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JsonSecurity&repo=ServoTunerUNO&show_icons=true&theme=dracula&locale=es&hide_border=true&icon_color=f34b7d&title_color=f34b7d&cache_seconds=7200" />
   </a>
 </div>
 
@@ -79,7 +86,7 @@
   <img width="40px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png"/>
   <img width="40px" height="40px" src="https://styles.redditmedia.com/t5_3ielc/styles/communityIcon_3bj2qe3pois31.png"/>
   <img width="40px" height="40px" src="https://www.sublimehq.com/images/sublime_text.png" border="0"/>
-  <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-2048x2026-9ua8vqiy.png" border="0"/>
+  <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" border="0"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/480px-Android_Studio_icon_%282023%29.svg.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   <img  width="40px" height="40px" src="https://avatars.githubusercontent.com/u/33467679"/>
   <img  width="35px" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png"/>
@@ -87,7 +94,7 @@
   <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0">
-  <img src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" width="auto" height="40px" alt="notepad++" border="0">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="auto" height="40px" alt="notepad++" border="0">
   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/raspberry-pi-logo.png" width="auto" height="40px" alt="notepad++" border="0">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/150px-Geogebra.svg.png" width="auto" height="40px" alt="notepad++" border="0">
   <img  width="40px" height="40px" src="https://www.latex-project.org/about/logos/latex-project-logo_288x288.svg"/>
@@ -98,7 +105,7 @@
   <!--<img width="40px" src="https://media4.giphy.com/media/2DUl6BtXGAx2uyqIas/200w.gif"/>-->
   
   <!--<img width="40px" src="https://images.credly.com/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png"/>-->
-  <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" width="40px" height="40px" border="0" decora/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="45px" border="0" decora/>
   <img src="https://styles.redditmedia.com/t5_3jxys/styles/communityIcon_z9jsfziqpdac1.jpg?format=pjpg&s=4ded88935752780a668f7d11d20062d99c780ba9" width="40px" height="40px" border="0" decora/>
   <img width="35px" height="35px" src="https://roboticaxyz.com/wp-content/uploads/2022/12/1000040239.png"/>
   <img width="35px" height="35px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png"/>
@@ -120,49 +127,89 @@
   <img width="40px" height="40px" src="https://www.exploit-db.com/images/spider-white.png"/>
   
 </div>
-
+<!--
 <div align="center">
   <h4>🦖 Programming Languages</h4>
   <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/1609975" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" width="31" height="31"/> 
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="js" height="38"/> 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="js" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="js" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" alt="js" width="40" height="40"/> 
 </DIV>
-
 <div align="center">
   <h4>🧱 Application Development</h4>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="js" width="31" height="31"/>
+          <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="js" width="38"/>
           <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/>
-          <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="bootstrap" width="35" height="35"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jquery" width="35" height="35"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
           <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="40" height="40"/>
           <img src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" width="40" height="40"/>
-          <img src="https://static-00.iconduck.com/assets.00/mariadb-icon-512x340-txozryr2.png" width="40" height="40"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/mariadb-filled-.svg" width="40" height="40"/>
           <img src="https://avatars.githubusercontent.com/u/14101776" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
           <img src="https://flet.dev/img/logo.svg" height="40" width="40" border="0">
           <img src="https://www.manualweb.net/img/logos/flask.png" height="40" width="40" border="0">
           <img src="https://styles.redditmedia.com/t5_22lifv/styles/communityIcon_mw6kn5lyiud41.png" height="40" width="40" border="0">
 </div>
-
 <div align="center">
   <h4>📚 Object Oriented Programming</h4>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="js" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </div>
-
-<!------------------------------------------------------------
-<h3>📓 Extra:</h3>
-<div>
-  <img src="https://i.ibb.co/hWbmstm/pngwing-com.png" alt="microsoft-powerpoint" width="auto" height="40" border="0">
-  <img src="https://i.ibb.co/P9qktLw/pngwing-com-1.png" width="auto" height="40" alt="Excel" border="0">
-  <img src="https://i.ibb.co/1vHDj4d/pngwing-com-2.png" width="auto" height="40" alt="microsoft-word-document" border="0">
-</div>
 -->
+<br><br>
+<div align="center">
+  <table style="border-collapse: collapse; border: 2px solid #444; border-radius: 10px;">
+    <tr>
+      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Frontend</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Backend</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Databases</th>
+    </tr>
+    <tr>
+      <!-- FRONTEND -->
+      <td align="center" style="border: 2px solid #444; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+        <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="45"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="45"/>
+        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="55"/>
+      </td>
+      <!-- BACKEND -->
+      <td align="center" style="border: 2px solid #444; padding: 10px;">
+        <!-- JAVA -->
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="45"/>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" title="Spring Boot"/>
+        <img src="https://ferestrepoca.github.io/paradigmas-de-programacion/reactive/reactive_teoria/images/reactivex.png" width="45" title="Reactive Programming / ReactiveX"/>
+        <!-- NETTY ICON (nuevo enlace tuyo) -->
+        <img src="https://lh3.googleusercontent.com/27iH7LkW_01hQarGnCxs2vY36zcIObRcog6ek5PXIV1Bd-wO5RaYf_aeavWUgHebuhJzyTjPQbxl69QseV6XjEgc8DDiYHU" width="90" title="Netty"/>
+        <!-- EXTRA JAVA BACKEND -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png" width="65" title="Tomcat"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="43" title="Hibernate ORM"/>
+        <img src="https://miro.medium.com/v2/1*kbSGIVukG6lL7JtAa9wiDA.png" width="55" title="Maven"/>
+        <!-- PYTHON / PHP -->
+        <img src="https://www.manualweb.net/img/logos/flask.png" width="45" title="Flask"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+      </td>
+      <!-- DATABASES -->
+      <td align="center" style="border: 2px solid #444; padding: 10px;">
+        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="45" title="MySQL Workbench"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/mariadb-filled-.svg" width="45" title="MariaDB"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="45" title="MongoDB"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="45" title="PostgreSQL"/>
+        <img src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" width="55" title="SQL Server"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="45" title="SQLite"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
