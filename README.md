@@ -120,7 +120,7 @@
   <img width="35px" height="35px" src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg"/>
   <img width="35px" height="35px" src="https://udigrudroid.wordpress.com/wp-content/uploads/2018/07/veil_logo.png"/>
   
-  <img width="35px" height="35px" src="https://icons.veryicon.com/png/System/Captiva/wireshark.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" width="42" title="Wireshark"/>
   <img width="35px" height="35px" src="https://www.zerodayclothing.com/products/openwall-jtr-gentleman-1/openwall-jtr-gentleman-1_carrousel_02.jpg"/>
   <img width="35px" height="35px" src="https://media.imgcdn.org/repo/2023/03/hashcat/hashcat-logo.png"/>
   <img width="35px" height="35px" src="https://www.kali.org/tools/hydra/images/hydra-logo.svg"/>
@@ -169,9 +169,10 @@
 <div align="center">
   <table style="border-collapse: collapse; border: 2px solid #444; border-radius: 10px;">
     <tr>
-      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Frontend</th>
-      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Backend</th>
-      <th style="border: 2px solid #444; padding: 10px; width: 280px;">Databases</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 250px;">Frontend</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 250px;">Backend</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 250px;">Databases</th>
+      <th style="border: 2px solid #444; padding: 10px; width: 250px;">Testing / QA</th>
     </tr>
     <tr>
       <!-- FRONTEND -->
@@ -184,17 +185,14 @@
       </td>
       <!-- BACKEND -->
       <td align="center" style="border: 2px solid #444; padding: 10px;">
-        <!-- JAVA -->
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="45"/>
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="50"/>
+        <img src="https://jmeter.apache.org/images/mstile-144x144.png" width="50"/> <!-- JMeter -->
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" title="Spring Boot"/>
-        <img src="https://ferestrepoca.github.io/paradigmas-de-programacion/reactive/reactive_teoria/images/reactivex.png" width="45" title="Reactive Programming / ReactiveX"/>
-        <!-- NETTY ICON (nuevo enlace tuyo) -->
+        <img src="https://ferestrepoca.github.io/paradigmas-de-programacion/reactive/reactive_teoria/images/reactivex.png" width="45" title="Reactive Programming"/>
         <img src="https://lh3.googleusercontent.com/27iH7LkW_01hQarGnCxs2vY36zcIObRcog6ek5PXIV1Bd-wO5RaYf_aeavWUgHebuhJzyTjPQbxl69QseV6XjEgc8DDiYHU" width="90" title="Netty"/>
-        <!-- EXTRA JAVA BACKEND -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1024px-Apache_Tomcat_logo.svg.png" width="65" title="Tomcat"/>
         <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="43" title="Hibernate ORM"/>
         <img src="https://miro.medium.com/v2/1*kbSGIVukG6lL7JtAa9wiDA.png" width="55" title="Maven"/>
-        <!-- PYTHON / PHP -->
         <img src="https://www.manualweb.net/img/logos/flask.png" width="45" title="Flask"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
       </td>
@@ -206,6 +204,18 @@
         <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="45" title="PostgreSQL"/>
         <img src="https://www.geekandjob.com/uploads/wiki/43b8c92d2a8fcd2a95ae6bf30c18494dae92467a.png" width="55" title="SQL Server"/>
         <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="45" title="SQLite"/>
+      </td>
+      <!-- TESTING / QA -->
+      <td align="center" style="border: 2px solid #444; padding: 10px;">
+        <img src="https://jmeter.apache.org/images/mstile-144x144.png" width="45" title="JMeter"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/2048px-Wireshark_icon.svg.png" width="42" title="Wireshark"/>
+        <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*KMYIE0A-u-DhaMm9N2ImlA.png" width="45" title="Burp Suite"/>
+        <img src="https://www.nicepng.com/png/full/233-2339906_the-owasp-zed-attack-proxy-is-one-of.png" width="45" title="OWASP ZAP"/>
+        <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" width="45" title="Wfuzz"/>
+        <img src="https://udigrudroid.wordpress.com/wp-content/uploads/2018/07/veil_logo.png" width="45" title="Veil"/>
+        <img src="https://media.imgcdn.org/repo/2023/03/hashcat/hashcat-logo.png" width="45" title="Hashcat"/>
+        <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="45" title="Hydra"/>
+        <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="45" title="Netcat"/>
       </td>
     </tr>
   </table>
