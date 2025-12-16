@@ -7,10 +7,12 @@
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
 -->
 <div align="center">
+  
+  <img  src="https://img.shields.io/badge/BACKEND%20DEV-black?style=flat&logo=spring&logoColor=f72a16">
   <img src="https://img.shields.io/badge/CYBER%20SECURITY-black?style=flat&logo=kalilinux&logoColor=00ffff" >
   <img  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-black?style=flat&logo=tensorflow">
-  <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=laravel&logoColor=f72a16">
   <img src="https://img.shields.io/badge/MOBILE%20APP%20DEV-black?style=flat&logo=android&logoColor=98ed64">
+  <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=laravel&logoColor=f72a16">
 </div>
 <!--### 🛰️ Other scopes
 [![Applied Electronics](https://img.shields.io/badge/APPLIED%20ELECTRONICS-🐫-orange?style=for-the-badge&logo=arduino&logoColor=white)](#)
