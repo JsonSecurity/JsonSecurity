@@ -7,10 +7,8 @@
 [![Mobile Application Development](https://img.shields.io/badge/MOBILE%20APP%20DEV-🦗-green?style=for-the-badge&logo=android&logoColor=white)](#)
 -->
 <div align="center">
-  
   <img  src="https://img.shields.io/badge/BACKEND%20DEV-black?style=flat&logo=spring&logoColor=f72a16">
-  <img src="https://img.shields.io/badge/CYBER%20SECURITY-black?style=flat&logo=kalilinux&logoColor=00ffff" >
-  <img  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-black?style=flat&logo=tensorflow">
+ 
   <img src="https://img.shields.io/badge/MOBILE%20APP%20DEV-black?style=flat&logo=android&logoColor=98ed64">
   <img  src="https://img.shields.io/badge/WEB%20APP%20DEV-black?style=flat&logo=laravel&logoColor=f72a16">
 </div>
@@ -19,6 +17,8 @@
 [![Robotics](https://img.shields.io/badge/ROBOTICS-🦘-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
 -->
 <div align="center">
+   <img src="https://img.shields.io/badge/CYBER%20SECURITY-black?style=flat&logo=kalilinux&logoColor=00ffff" >
+  <img  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-black?style=flat&logo=tensorflow">
   <img src="https://img.shields.io/badge/APPLIED%20ELECTRONICS-black?style=flat&logo=arduino&logoColor=00ffff">
   <img  src="https://img.shields.io/badge/ROBOTICS-black?style=flat&logo=cplusplus&logoColor=8c65f6">
 </div>
@@ -44,7 +44,7 @@
 -->
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=7200" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jsonsecurity&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=100" />
   </a>
   <br>
   <a href="https://github.com/JsonSecurity/tunNgrok">
